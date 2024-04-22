@@ -1,5 +1,8 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
-
+## Name: Suriya Pravin M
+## Date: 22-04-2024
+## Roll.no: 212223230223
+## Dept: B.Tech AI&DS
 ### Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
@@ -36,7 +39,7 @@ Gripping & drop detection
 Force & position adjustment
 Self-locking
 
-                  ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
+![image](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
 ### Figure -01 DH gripper with two finger gripper 
 
 #### Specifications
@@ -79,7 +82,6 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
 
 
 
@@ -98,17 +100,23 @@ and click on the connect icon
 
 
 
-### output video and screen shots of pick and place 
+### Program:
 
+![WhatsApp Image 2024-04-22 at 10 52 44 AM (4)](https://github.com/Suriya-Pravin-M/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150010919/d528031b-eb66-492a-b8ee-3d8db67a15ec)
 
+![WhatsApp Image 2024-04-22 at 10 52 44 AM (5)](https://github.com/Suriya-Pravin-M/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150010919/7e2137df-015a-4191-993d-e86194cc1e00)
 
+![WhatsApp Image 2024-04-22 at 10 52 44 AM (6)](https://github.com/Suriya-Pravin-M/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150010919/39a32164-ff7a-4b4c-b11a-95c2d2c4d3bc)
 
+![WhatsApp Image 2024-04-22 at 10 52 44 AM (7)](https://github.com/Suriya-Pravin-M/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150010919/32453a8c-8a28-474d-a1e2-a393dd99ff76)
 
+## Output video and ScreenShots of pick and place:
 
+![pic](https://github.com/Suriya-Pravin-M/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150010919/ac9556b0-b22d-4f55-bfb5-439f8ea260bf)
 
 ### Results: 
 
-
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
