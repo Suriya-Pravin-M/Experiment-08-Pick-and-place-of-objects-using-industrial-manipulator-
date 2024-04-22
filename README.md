@@ -111,7 +111,9 @@ and click on the connect icon
 ![WhatsApp Image 2024-04-22 at 10 52 44 AM (7)](https://github.com/Suriya-Pravin-M/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150010919/32453a8c-8a28-474d-a1e2-a393dd99ff76)
 
 ## Output video and ScreenShots of pick and place:
-
+### Video
+https://drive.google.com/file/d/1di12q_-8GP8mAGHpxFg8-9Os7hjFjnl2/view
+### Picture
 ![pic](https://github.com/Suriya-Pravin-M/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/150010919/ac9556b0-b22d-4f55-bfb5-439f8ea260bf)
 
 ### Results: 
